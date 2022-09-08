@@ -9,13 +9,13 @@ Frequent speaker on topics of <b>Developer, sales, e-commerce and business</b>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/bfuent3s" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/bfuent3s/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Bernardo Fuentes Profile Linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/bfuent3s" target="blank"><img align="center"
+  <a href="https://instagram.com/bfuent3s" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Bernardo Fuentes Profile" height="30" width="40" /></a>
- <a href="https://twitter.com/bfuent3s" target="blank"><img align="center"
+ <a href="https://twitter.com/bfuent3s" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Bernardo Fuentes Profile Twitter" height="30" width="40" /></a>
 </p>
