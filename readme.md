@@ -2,10 +2,10 @@
 
 <p>I'm Bernardo Fuentes, Venezuelan living in México Guadalajara.</p>
 
-<h3 align="left">About me</h3>
-Fullstack Developer in <a href="https://itivos.com"><b>itivos.com</b></a>,
-Frequent speaker on topics of <b>Developer, sales, e-commerce and business</b>.
-<p>I'm a biker, I love video games especially Resident Evil :D</p>
+<h3 align="left">About Me</h3>
+Fullstack Developer at <a href="https://itivos.com"><b>itivos.com</b></a>,  
+Frequent speaker on topics such as <b>development, sales, e-commerce, and business</b>.  
+<p>I'm a mountain biking enthusiast, especially into enduro. I also love video games, and I'm a huge fan of Resident Evil! :D</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
